@@ -6,3 +6,4 @@ dependencies:
     - django
     - channels
     - channels_redis
+    - selenium
