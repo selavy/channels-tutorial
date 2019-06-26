@@ -5,3 +5,4 @@ dependencies:
   - pip:
     - django
     - channels
+    - channels_redis
